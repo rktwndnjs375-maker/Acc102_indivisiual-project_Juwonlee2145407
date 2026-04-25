@@ -105,4 +105,10 @@ Tesla demonstrates the strongest investment potential due to its high growth and
 
 ---
 
-## 9. Demo Video
+## 9. Limitations
+
+This analysis has several limitations. First, the study is based on a limited set of financial variables and does not include other important factors such as market conditions or external economic influences. 
+
+Second, the dataset covers a specific time period and may not fully represent long-term trends. Additionally, some data extraction challenges and technical constraints during the WRDS process may have affected data completeness.
+
+Therefore, the results should be interpreted as a simplified comparison rather than a comprehensive investment recommendation.
